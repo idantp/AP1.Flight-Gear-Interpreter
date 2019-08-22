@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ex3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ex3">
+				<Option output="/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Ex3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ex3/fast">
+				<Option output="/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Ex3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/AssignCommand.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/AssignCommand.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/BinaryExpression.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/BinaryExpression.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/BindCommand.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/BindCommand.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Command.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/CommandExpression.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/CommandExpression.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/ConditionParser.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/ConditionParser.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/ConnectCommand.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/ConnectCommand.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/CreateVarCommand.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/CreateVarCommand.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Divide.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Divide.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Expression.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Expression.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/IfCommand.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/IfCommand.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Lexer.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Lexer.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/LoopCommand.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/LoopCommand.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Minus.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Minus.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Multiply.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Multiply.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Number.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Number.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/OpenClientSocket.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/OpenClientSocket.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/OpenDataServerCommand.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/OpenDataServerCommand.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Parser.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Parser.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Plus.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Plus.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/PrintCommand.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/PrintCommand.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Runner.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/Runner.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/ShuntingYard.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/ShuntingYard.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/SleepCommand.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/SleepCommand.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/VarManager.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/VarManager.h">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/main.cpp">
+			<Option target="Ex3"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
